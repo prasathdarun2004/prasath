@@ -1,0 +1,14 @@
+5 int
+-5 int
+6.5 float
+-6.5 float
+6.000000 float
+8.900 float
+c char 
+ab string
+0 char
+-1 int
++1 int
+00 int
+5555 int
+5343 int
