@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+    int l ;
+    int b ;
+    printf("Enter length:");
+    scanf("%d",&l);
+    printf("Enter breadth:");
+    scanf("%d",&b);
+    int area =1 * b;
+    int prei =2 * (l+b);
+    printf("area = %d, preimeter = %d",area,prei);
+    return 0;
+}
